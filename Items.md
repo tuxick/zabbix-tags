@@ -1,5 +1,5 @@
 # Official documentation
-* [https://www.zabbix.com/documentation/guidelines/en/thosts/configuration/template_items#tags Items tags]
+[Items tags](https://www.zabbix.com/documentation/guidelines/en/thosts/configuration/template_items#tags)
 
 # Items tags
 
