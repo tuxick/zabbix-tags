@@ -20,6 +20,7 @@
 || storage || 
 || system |Metrics not related to os| ping, uptime, hostname
 | disk | {#DEVNAME}| | maybe just about actual disks? |
+| interface | {#IFNAME} ||
 | filesystem | {#FSNAME} ||
 | fstype | {#FSTYPE} ||
 
